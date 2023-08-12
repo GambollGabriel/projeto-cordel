@@ -35,7 +35,7 @@ header > p {
     font-weight: lighter;
 }
 
-header a, footer {
+header, a, footer {
     color: white;
     text-decoration: none;
     font-weight: bolder;
